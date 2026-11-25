@@ -1,0 +1,152 @@
+{
+  "player": {
+    "id": "ab-de-villiers",
+    "name": "AB de Villiers",
+    "fullName": "Abraham Benjamin de Villiers",
+    "country": "South Africa",
+    "dateOfBirth": "1984-02-17",
+    "birthPlace": "Bela-Bela, Transvaal Province, South Africa",
+    "role": "Batter / Wicketkeeper",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "teams": [
+      "South Africa",
+      "Royal Challengers Bangalore",
+      "Delhi Daredevils",
+      "Titans",
+      "Northerns",
+      "Brisbane Heat",
+      "Lahore Qalandars",
+      "Middlesex",
+      "Barbados Tridents",
+      "Tshwane Spartans"
+    ],
+    "careerSpan": "2004 - 2021"
+  },
+  "formats": {
+    "Test": {
+      "matches": 114,
+      "innings": 191,
+      "runs": 8765,
+      "ballsFaced": 16077,
+      "notOuts": 18,
+      "highestScore": "278*",
+      "highestScoreRaw": 278,
+      "average": 50.66,
+      "strikeRate": 54.51,
+      "hundreds": 22,
+      "fifties": 46,
+      "ducks": 8,
+      "fours": 1024,
+      "sixes": 64,
+      "bowling": {
+        "innings": 7,
+        "overs": 33.1,
+        "runsConceded": 104,
+        "wickets": 2,
+        "bestBowling": "2/49",
+        "average": 52.0,
+        "economy": 3.13
+      },
+      "fielding": {
+        "catches": 222,
+        "stumpings": 5
+      }
+    },
+    "ODI": {
+      "matches": 228,
+      "innings": 218,
+      "runs": 9577,
+      "ballsFaced": 9473,
+      "notOuts": 39,
+      "highestScore": "176",
+      "highestScoreRaw": 176,
+      "average": 53.5,
+      "strikeRate": 101.09,
+      "hundreds": 25,
+      "fifties": 53,
+      "ducks": 7,
+      "fours": 840,
+      "sixes": 204,
+      "bowling": {
+        "innings": 12,
+        "overs": 45.3,
+        "runsConceded": 288,
+        "wickets": 7,
+        "bestBowling": "2/15",
+        "average": 28.85,
+        "economy": 6.32
+      },
+      "fielding": {
+        "catches": 176,
+        "stumpings": 5
+      }
+    },
+    "T20I": {
+      "matches": 78,
+      "innings": 75,
+      "runs": 1672,
+      "ballsFaced": 1237,
+      "notOuts": 11,
+      "highestScore": "79*",
+      "highestScoreRaw": 79,
+      "average": 26.12,
+      "strikeRate": 135.16,
+      "hundreds": 0,
+      "fifties": 10,
+      "ducks": 5,
+      "fours": 140,
+      "sixes": 60,
+      "bowling": {
+        "innings": 0,
+        "overs": 0,
+        "runsConceded": 0,
+        "wickets": 0,
+        "bestBowling": "-",
+        "average": null,
+        "economy": null
+      },
+      "fielding": {
+        "catches": 65,
+        "stumpings": 7
+      }
+    },
+    "IPL": {
+      "matches": 184,
+      "innings": 170,
+      "runs": 5162,
+      "ballsFaced": 3408,
+      "notOuts": 40,
+      "highestScore": "133*",
+      "highestScoreRaw": 133,
+      "average": 39.7,
+      "strikeRate": 151.46,
+      "hundreds": 3,
+      "fifties": 40,
+      "ducks": 10,
+      "fours": 413,
+      "sixes": 251,
+      "bowling": {
+        "innings": 0,
+        "overs": 0,
+        "runsConceded": 0,
+        "wickets": 0,
+        "bestBowling": "-",
+        "average": null,
+        "economy": null
+      },
+      "fielding": {
+        "catches": 118,
+        "stumpings": 8
+      }
+    }
+  },
+  "careerTotals": {
+    "allRecognizedMatches": 604,
+    "totalRuns": 25176,
+    "totalHundreds": 50,
+    "totalFifties": 149,
+    "totalCatches": 581,
+    "totalStumpings": 25
+  }
+}

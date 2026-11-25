@@ -1,0 +1,98 @@
+{
+  "Test": {
+    "recalculated": {
+      "matches": 114,
+      "innings": 191,
+      "runs": 8765,
+      "balls": 15626,
+      "notOuts": 18,
+      "average": 50.66,
+      "strikeRate": 56.09,
+      "hundreds": 22,
+      "fifties": 46,
+      "highestScore": 278
+    },
+    "canonical": {
+      "matches": 114,
+      "innings": 191,
+      "runs": 8765,
+      "notOuts": 18,
+      "average": 50.66,
+      "hundreds": 22,
+      "fifties": 46,
+      "highestScore": 278
+    }
+  },
+  "ODI": {
+    "recalculated": {
+      "matches": 228,
+      "innings": 218,
+      "runs": 9577,
+      "balls": 9371,
+      "notOuts": 39,
+      "average": 53.5,
+      "strikeRate": 102.2,
+      "hundreds": 25,
+      "fifties": 53,
+      "highestScore": 176
+    },
+    "canonical": {
+      "matches": 228,
+      "innings": 218,
+      "runs": 9577,
+      "notOuts": 39,
+      "average": 53.5,
+      "hundreds": 25,
+      "fifties": 53,
+      "highestScore": 176
+    }
+  },
+  "T20I": {
+    "recalculated": {
+      "matches": 78,
+      "innings": 75,
+      "runs": 1672,
+      "balls": 1205,
+      "notOuts": 11,
+      "average": 26.12,
+      "strikeRate": 138.76,
+      "hundreds": 0,
+      "fifties": 11,
+      "highestScore": 79
+    },
+    "canonical": {
+      "matches": 78,
+      "innings": 75,
+      "runs": 1672,
+      "notOuts": 11,
+      "average": 26.12,
+      "hundreds": 0,
+      "fifties": 10,
+      "highestScore": 79
+    }
+  },
+  "IPL": {
+    "recalculated": {
+      "matches": 184,
+      "innings": 170,
+      "runs": 5162,
+      "balls": 3359,
+      "notOuts": 40,
+      "average": 39.71,
+      "strikeRate": 153.68,
+      "hundreds": 3,
+      "fifties": 40,
+      "highestScore": 133
+    },
+    "canonical": {
+      "matches": 184,
+      "innings": 170,
+      "runs": 5162,
+      "notOuts": 40,
+      "average": 39.7,
+      "hundreds": 3,
+      "fifties": 40,
+      "highestScore": 133
+    }
+  }
+}
